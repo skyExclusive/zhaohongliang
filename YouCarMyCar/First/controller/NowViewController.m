@@ -25,11 +25,7 @@
     [self.view addSubview:self.mytable
      ];
     self.mytable.separatorStyle = UITableViewCellSeparatorStyleNone;
-    
-    
-    
-    
-    
+        
     [self cell];//注册cell
     
 
