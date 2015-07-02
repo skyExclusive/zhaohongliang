@@ -14,22 +14,26 @@
 		<string>https://github.com/skyExclusive/MyCarYourCar.git</string>
 		<key>890B6DA62D0DE40BB02B79D8FCC976CC97FB955F</key>
 		<string>https://github.com/skyExclusive/YourCarMyCar.git</string>
+		<key>F086A16EB0B111B0791F54F57184B340F09A9967</key>
+		<string>https://github.com/skyExclusive/zhaohongliang.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>YouCarMyCar/YouCarMyCar.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>8502FD39D3588780CCB9DF8A14CDBA5AD93AAE23</key>
-		<string>../../..</string>
+		<string>../../../../liang</string>
 		<key>890B6DA62D0DE40BB02B79D8FCC976CC97FB955F</key>
 		<string>../../../../YourCarMyCar</string>
+		<key>F086A16EB0B111B0791F54F57184B340F09A9967</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/skyExclusive/MyCarYourCar.git</string>
+	<string>https://github.com/skyExclusive/zhaohongliang.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8502FD39D3588780CCB9DF8A14CDBA5AD93AAE23</string>
+	<string>F086A16EB0B111B0791F54F57184B340F09A9967</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -47,6 +51,14 @@
 			<string>890B6DA62D0DE40BB02B79D8FCC976CC97FB955F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>YourCarMyCar</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F086A16EB0B111B0791F54F57184B340F09A9967</string>
+			<key>IDESourceControlWCCName</key>
+			<string>zhaowei</string>
 		</dict>
 	</array>
 </dict>
